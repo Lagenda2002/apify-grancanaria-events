@@ -1,0 +1,16 @@
+{
+  "title": "Gran Canaria Events Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "monthsAhead": {
+      "title": "Meses adicionales a procesar",
+      "type": "integer",
+      "description": "Número de meses futuros (además del actual) que se intentarán cargar.",
+      "minimum": 0,
+      "maximum": 6,
+      "default": 0
+    }
+  },
+  "required": []
+}

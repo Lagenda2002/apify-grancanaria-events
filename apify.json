@@ -1,0 +1,8 @@
+{
+  "name": "grancanaria-events",
+  "title": "Gran Canaria Cultura Events Scraper",
+  "description": "Scrapea eventos de cultura.grancanaria.com (agenda completa).",
+  "version": "0.1",
+  "buildTag": "latest",
+  "env": { "NODE_VERSION": "18" }
+}

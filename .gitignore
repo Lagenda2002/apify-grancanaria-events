@@ -1,2 +1,16 @@
-node_modules
-apify_storage
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+package-lock.json
+
+# Apify local storage
+apify_storage/
+
+# Logs / OS
+.DS_Store
+*.log
+
+# Env
+.env
+.env.local
